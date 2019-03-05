@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/com/entor/controller/MenuController.java=UTF-8
+encoding//src/com/entor/controller/RoleController.java=UTF-8
+encoding//src/com/entor/controller/Sysrolemenucontroller.java=UTF-8
+encoding//src/com/entor/controller/Sysuserrolecontroller.java=UTF-8
+encoding//src/com/entor/controller/UserController.java=UTF-8
+encoding//src/com/entor/dao/MenuDao.java=UTF-8
+encoding//src/com/entor/dao/RoleDao.java=UTF-8
+encoding//src/com/entor/dao/RoleMenuDao.java=UTF-8
+encoding//src/com/entor/dao/UserDao.java=UTF-8
+encoding//src/com/entor/dao/UserRoleDao.java=UTF-8
+encoding//src/com/entor/dao/impl/MenuDaoImpl.java=UTF-8
+encoding//src/com/entor/dao/impl/RoleDaoImpl.java=UTF-8
+encoding//src/com/entor/dao/impl/RoleMenuDaoImpl.java=UTF-8
+encoding//src/com/entor/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/com/entor/dao/impl/UserRoleDaoImpl.java=UTF-8
